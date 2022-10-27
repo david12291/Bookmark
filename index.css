@@ -1,0 +1,10 @@
+body {
+    background-color: black;
+    color: whitesmoke;
+}
+
+.bookmarks {
+    border: 1px pink solid ;
+    width: 500px;
+    height: 400px;
+}
